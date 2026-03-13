@@ -35,5 +35,8 @@ M:```which -a python3``` o W:```where python```
 **WINGET**
 - Installazione Python base: [guida winget python](https://bigblue.academy/en/how-to-download-python-for-windows-step-by-step#:~:text=To%20install%20Python%20via%20winget,version's%20ID%20to%20install%20it.)
 
+## Creare ambiente virtuale con venv
+Vedi [Guida W3School](https://www.w3schools.com/python/python_virtualenv.asp)
+
 
 
