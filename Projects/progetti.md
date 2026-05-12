@@ -1,5 +1,4 @@
 # Progetto per il corso
-Canale Slack per discussioni generli: https://join.slack.com/t/pythonlab-gruppo/shared_invite/zt-3sivzt30l-ip1eJzDAFQzSyAg_5LdUbg
 - Gruppi: 2-3 persone
 
 Il progetto andrà sviluppato e condiviso su Github. Durante l'ultima lezione ci sarà la discussione:
